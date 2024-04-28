@@ -1,5 +1,6 @@
 body{
 background-color: grey;
+font-family: "Josefin Sans", sans-serif;
 }
 
 h1{
@@ -74,6 +75,13 @@ top: 760px;
 }
 .pn{
     position: absolute;
-    right: 370px;
-    top: 30px;
+    right: 30px;
+    top: 300px;
+}
+.u{
+    background-color: whitesmoke;
+    position: absolute;
+    left: 30px;
+    top: 900px;
+    border-radius: 10%;
 }
