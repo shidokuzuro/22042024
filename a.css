@@ -31,7 +31,7 @@ top: 20px;
 }
 .korobka{
    position: absolute;
-    right: 30px;
+    right: -180px;
 top: 500px;
    
 }
@@ -40,19 +40,19 @@ top: 500px;
 position: absolute;
 left: 30px;
 top: 400px;
-border-radius: 10%;
+rotate: 8deg;
 }
-.p{
+.nn{
     background-color: whitesmoke;
 position: absolute;
 left: 400px;
 top: 650px;
-border-radius: 10%;
+rotate: 352deg;
 }
 img{
     z-index: 2;
     width: 60%;
-    border-radius: 100%;
+    border-radius: 20%;
 }
 .x{
     position: absolute;
@@ -84,4 +84,47 @@ top: 760px;
     left: 30px;
     top: 900px;
     border-radius: 10%;
+}
+
+
+.mm{
+background-color: darkgrey;
+    position: absolute;
+    top: 1000px;
+}
+img{
+    z-index: 2;
+    width: 60%;
+    
+}
+.pp{
+    position: absolute;
+    background-color: whitesmoke;
+top: 400px;
+right: 20px;
+}
+.ll{
+
+    position: absolute;
+    top: 1800px;
+left: 600px;
+margin: 20px;
+}
+.kk{
+   
+    background-color: whitesmoke;
+position: absolute;
+text-align: center;
+right: 500px;
+}
+.imn{
+    position: absolute;
+    top: 2050px;
+}
+.dd{
+    position: absolute;
+    top: 2500px;
+}
+.ww{
+    background-color: whitesmoke;
 }
